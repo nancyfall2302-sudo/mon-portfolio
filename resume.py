@@ -35,8 +35,7 @@ with st.sidebar:
 
 st.subheader("Profil")
 
-st.write("Technicienne supérieure motivée, passionnée par l'agriculture durable et la transformation alimentaire. Dotée de capacités d'analyse et de résolution de problèmes et d'expérience pratique en laboratoire. A la recherche d'opportunités pour acquérir de l'expérience professionnelle.")
-
+st.write("Technicienne supérieure passionnée par l'agriculture durable et la transformation alimentaire. Rigoureuse et dotée de capacités d'analyse et de résolution de problèmes, et d'expérience pratique en laboratoire. A la recherche d'opportunités pour acquérir de l'expérience professionnelle.")
 st.subheader("Expériences Pratiques")
 
 st.markdown("""
